@@ -1,4 +1,4 @@
-# codex_index.py
+# codex_index.pyc
 
 import sqlite3
 from pathlib import Path
